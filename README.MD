@@ -2,4 +2,4 @@
 
 비주얼 스튜디오 코드를 사용해서 깃허브를 연습할 거임.
 
-Seolhee Kim
+Seolhee Kim - 1234
